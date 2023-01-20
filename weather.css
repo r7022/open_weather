@@ -5,7 +5,7 @@ body {
   background-position: top center;
 }
 
-.app-wrap {
+.app-wrap{
   display: flex;
   flex-direction: column;
   min-height: 100vh;
